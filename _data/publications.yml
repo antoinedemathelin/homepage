@@ -9,7 +9,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ti7OuXjBVkcJ:scholar.google.com/&output=citation&scisdr=ClFxWrUEEJnVnT3S3Mo:AFWwaeYAAAAAZo_UxMoWFl_WpwDPxhzqj-o54wQ&scisig=AFWwaeYAAAAAZo_UxBky0WRktHiO17dLnl17eKY&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/teaser_example_2.png
 
-  - title: From theoretical to practical transfer learning The ADAPT library
+  - title: From theoretical to practical transfer learning, The ADAPT library
     authors: <strong>de Mathelin, A.</strong>, Deheeger, F., Mougeot, M. and Vayatis, N.
     conference_short: FTL
     conference: Federated and Transfer Learning <strong>(FTL)</strong>, 2022.
@@ -48,7 +48,7 @@ main:
   - title: Handling distribution shift in tire design
     authors: <strong>de Mathelin, A.</strong>, Deheeger, F., Mougeot, M. and Vayatis, N.
     conference_short: DistShift
-    conference: NeurIPS Workshop on Distribution Shifts: Connecting Methods and Applications <strong>(NeurIPS-DistShift)</strong>, 2021.
+    conference: NeurIPS Workshop on Distribution Shifts, Connecting Methods and Applications <strong>(NeurIPS-DistShift)</strong>, 2021.
     pdf: https://openreview.net/pdf?id=W0fKtUQgcRR
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:uQVNR42EBpAJ:scholar.google.com/&output=citation&scisdr=ClFxWrUEEJnVnT3TyKI:AFWwaeYAAAAAZo_V0KJ1ngqu_Mc3rPs4OcdE8Kc&scisig=AFWwaeYAAAAAZo_V0Er7E6TXYEkHmA3eRUCngag&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/teaser_example_2.png
