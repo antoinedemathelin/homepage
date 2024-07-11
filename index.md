@@ -8,10 +8,6 @@ I am a last year Ph.D. student at the Centre Borelli of the ENS Paris-Sclay in F
 
 My research focuses on developing reliable machine learning models under the intrinsic constraints of engineering design, such as domain shift and costly labeling. I am particularly interested in transfer learning, domain adaptation, active learning, uncertainty quantification, and out-of-distribution detection.
 
-## Research Interests
-
-- **Machine Learning:** active learning, transfer learning
-
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
