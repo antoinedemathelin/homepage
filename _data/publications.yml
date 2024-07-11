@@ -1,10 +1,81 @@
 main:
 
+  - title: Personalized One-Shot Collaborative Learning
+    authors: Garin, M., \underline{de Mathelin, A.}, Mougeot, M. and Vayatis, N.
+    conference_short: ICTAI
+    conference: IEEE 35th International Conference on Tools with Artificial Intelligence <strong>(ICTAI)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/document/10356498
+    code: https://github.com/antoinedemathelin/persavg
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ti7OuXjBVkcJ:scholar.google.com/&output=citation&scisdr=ClFxWrUEEJnVnT3S3Mo:AFWwaeYAAAAAZo_UxMoWFl_WpwDPxhzqj-o54wQ&scisig=AFWwaeYAAAAAZo_UxBky0WRktHiO17dLnl17eKY&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/teaser_example_2.png
+
+  - title: From theoretical to practical transfer learning: The ADAPT library
+    authors: \underline{de Mathelin, A.}, Deheeger, F., Mougeot, M. and Vayatis, N.
+    conference_short: FTL
+    conference: Federated and Transfer Learning <strong>(FTL)</strong>, 2022.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-11748-0_12
+    code: https://github.com/adapt-python/adapt
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CyuyjE8tM-kJ:scholar.google.com/&output=citation&scisdr=ClFxWrUEEJnVnT3S-B0:AFWwaeYAAAAAZo_U4B2crvVZ7q9RSFZ4bscyVGI&scisig=AFWwaeYAAAAAZo_U4Ht0vgYkRA8ZDdLsq1534cs&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/teaser_example_2.png
+
+  - title: Fast and Accurate Importance Weighting for Correcting Sample Bias
+    authors: \underline{de Mathelin, A.}, Deheeger, F., Mougeot, M. and Vayatis, N.
+    conference_short: ECML-PKDD
+    conference: European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>, 2022.
+    pdf: https://arxiv.org/abs/2209.04215
+    code: https://github.com/antoinedemathelin/Importance-Weighting-Network
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:0FOSLu-EqFUJ:scholar.google.com/&output=citation&scisdr=ClFxWrUEEJnVnT3S4wo:AFWwaeYAAAAAZo_U-wp8SmKkeSs6YpZnGZGHskY&scisig=AFWwaeYAAAAAZo_U-1vjK14yDVWWgQ5g_z8qcZQ&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/teaser_example_2.png
+
+  - title: Discrepancy-Based Active Learning for Domain Adaptation
+    authors: \underline{de Mathelin, A.}, Deheeger, F., Mougeot, M. and Vayatis, N.
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2022.
+    pdf: https://arxiv.org/abs/2103.03757
+    code: https://github.com/antoinedemathelin/dbal
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ezeaUZYebSoJ:scholar.google.com/&output=citation&scisdr=ClFxWrUEEJnVnT3TPw8:AFWwaeYAAAAAZo_VJw8uCS56uIP1HoQ5EGKJrdU&scisig=AFWwaeYAAAAAZo_VJ0B0pfqI6pN61w7rC9Z_I3M&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/teaser_example_2.png
+
+  - title: Unsupervised domain adaptation for constraining star formation histories
+    authors: Gilda, S., \underline{de Mathelin, A.}, Bellstedt, S. and Richard, G.
+    conference_short: AI2ASE
+    conference: 3rd Annual AAAI Workshop on AI to Accelerate Science and Engineering <strong>(AAAI-AI2ASE)</strong>, 2022.
+    pdf: https://arxiv.org/abs/2112.14072
+    code: https://github.com/antoinedemathelin/Unsupervised-Domain-Adaptation-For-Star-Formation-History
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:LYjNrOWhSmoJ:scholar.google.com/&output=citation&scisdr=ClFxWrUEEJnVnT3Tuco:AFWwaeYAAAAAZo_Vocp32Kv03snK9UmaMNvmLEs&scisig=AFWwaeYAAAAAZo_VoWNzAcFfM9no2CaK9a10jzM&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/teaser_example_2.png
+
+  - title: Handling distribution shift in tire design
+    authors: \underline{de Mathelin, A.}, Deheeger, F., Mougeot, M. and Vayatis, N.
+    conference_short: DistShift
+    conference: NeurIPS Workshop on Distribution Shifts: Connecting Methods and Applications <strong>(NeurIPS-DistShift)</strong>, 2021.
+    pdf: https://openreview.net/pdf?id=W0fKtUQgcRR
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:uQVNR42EBpAJ:scholar.google.com/&output=citation&scisdr=ClFxWrUEEJnVnT3TyKI:AFWwaeYAAAAAZo_V0KJ1ngqu_Mc3rPs4OcdE8Kc&scisig=AFWwaeYAAAAAZo_V0Er7E6TXYEkHmA3eRUCngag&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/teaser_example_2.png
+
+  - title: A Binded VAE for Inorganic Material Generation
+    authors: Oubari, F., \underline{de Mathelin, A.}, Décatoire, R. and Mougeot, M.
+    conference_short: DGM
+    conference: NeurIPS 2021 Workshop on Deep Generative Models and Downstream Applications <strong>(NeurIPS-DGM)</strong>, 2021.
+    pdf: https://arxiv.org/abs/2112.09570
+    code: https://github.com/foubari/Binded-VAE
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:OAaPGyFPxPYJ:scholar.google.com/&output=citation&scisdr=ClFxWrUEEJnVnT3T7FE:AFWwaeYAAAAAZo_V9FGmzdhX0MRsISxHvOwm2g4&scisig=AFWwaeYAAAAAZo_V9Ppt4zSjGwaWRwkzurPF5Tw&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/teaser_example_2.png
+
+  - title: Adversarial weighting for domain adaptation in regression
+    authors: <strong>de Mathelin, A.</strong>, Richard, G., Deheeger, F., Mougeot, M. and Vayatis, N.
+    conference_short: ICTAI
+    conference: IEEE 33rd International Conference on Tools with Artificial Intelligence <strong>(ICTAI)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2006.08251
+    code: https://github.com/antoinedemathelin/wann
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:nnZn9PrrUvsJ:scholar.google.com/&output=citation&scisdr=ClFxWrUEEJnVnT3QCAg:AFWwaeYAAAAAZo_WEAivZV9ACAF5h-gJm7RKaeY&scisig=AFWwaeYAAAAAZo_WEFfVlwl53vhXororFx_s3gY&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/teaser_example_2.png
+
   - title: Unsupervised multi-source domain adaptation for regression
-    authors: Richard, Guillaume, <strong>Antoine de Mathelin</strong>, Georges Hébrail, Mathilde Mougeot, and Nicolas Vayatis
+    authors: Richard, G., <strong>de Mathelin, A.</strong>, Hébrail, G., Mougeot, M. and Vayatis, N.
     conference_short: ECML-PKDD
     conference: European Conference in Machine Learning and Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>, 2020.
     pdf: https://hal.science/hal-02543790/file/paper_hal.pdf
     code: https://github.com/GRichard513/ADisc-MSDA
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:aQaAfXYQ3e8J:scholar.google.com/&output=citation&scisdr=ClFxWrUEEJnVnT22-7s:AFWwaeYAAAAAZo-w47t1nh2SMS9pCxHfA48MPds&scisig=AFWwaeYAAAAAZo-w427Jo87025703vsMrqoabFA&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:aQaAfXYQ3e8J:scholar.google.com/&output=citation&scisdr=ClFxWrUEEJnVnT3QM_I:AFWwaeYAAAAAZo_WK_K0wkAt4n3wTwpRDBpiVuE&scisig=AFWwaeYAAAAAZo_WK2UW_bPYoFJJKxGdykJb-Ko&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/teaser_example_2.png
