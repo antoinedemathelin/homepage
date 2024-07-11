@@ -9,7 +9,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ti7OuXjBVkcJ:scholar.google.com/&output=citation&scisdr=ClFxWrUEEJnVnT3S3Mo:AFWwaeYAAAAAZo_UxMoWFl_WpwDPxhzqj-o54wQ&scisig=AFWwaeYAAAAAZo_UxBky0WRktHiO17dLnl17eKY&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/teaser_example_2.png
 
-  - title: From theoretical to practical transfer learning: The ADAPT library
+  - title: From theoretical to practical transfer learning The ADAPT library
     authors: <strong>de Mathelin, A.</strong>, Deheeger, F., Mougeot, M. and Vayatis, N.
     conference_short: FTL
     conference: Federated and Transfer Learning <strong>(FTL)</strong>, 2022.
