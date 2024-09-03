@@ -1,0 +1,8 @@
+@incollection{de2022theoretical,
+  title={From theoretical to practical transfer learning: the ADAPT library},
+  author={de Mathelin, Antoine and Deheeger, Francois and Mougeot, Mathilde and Vayatis, Nicolas},
+  booktitle={Federated and Transfer Learning},
+  pages={283--306},
+  year={2022},
+  publisher={Springer}
+}

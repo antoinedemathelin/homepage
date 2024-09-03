@@ -1,0 +1,8 @@
+@inproceedings{de2022fast,
+  title={Fast and Accurate Importance Weighting for Correcting Sample Bias},
+  author={de Mathelin, Antoine and Deheeger, Francois and Mougeot, Mathilde and Vayatis, Nicolas},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={659--674},
+  year={2022},
+  organization={Springer}
+}

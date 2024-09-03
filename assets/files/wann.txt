@@ -1,0 +1,8 @@
+@inproceedings{de2021adversarial,
+  title={Adversarial weighting for domain adaptation in regression},
+  author={De Mathelin, Antoine and Richard, Guillaume and Deheeger, Fran{\c{c}}ois and Mougeot, Mathilde and Vayatis, Nicolas},
+  booktitle={2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI)},
+  pages={49--56},
+  year={2021},
+  organization={IEEE}
+}

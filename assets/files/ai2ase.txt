@@ -1,0 +1,6 @@
+@article{gilda2021unsupervised,
+  title={Unsupervised Domain Adaptation for Constraining Star Formation Histories. arXiv e-prints, page},
+  author={Gilda, Sankalp and de Mathelin, Antoine and Bellstedt, Sabine and Richard, Guillaume},
+  journal={arXiv preprint arXiv:2112.14072},
+  year={2021}
+}

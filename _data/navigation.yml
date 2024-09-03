@@ -1,0 +1,17 @@
+main:
+
+  - title: "Talks"
+    url: ./#invited-talks
+    right: true
+
+  #- title: "Teaching"
+  #  url: ./#teaching
+
+  - title: "Publications"
+    url: ./#publications
+
+  #- title: "News"
+  #  url: ./#news
+
+  - title: "Bio"
+    url: ./#short-bio

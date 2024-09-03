@@ -1,0 +1,31 @@
+main:
+
+  - title: ADAPT Awesome Domain Adaptation Python Toolbox
+    authors: <strong>de Mathelin, A.</strong>, Atiq, M., Richard, G., de la Concha, A., Yachouti, M., Deheeger, F., Mougeot, M. and Vayatis, N. (2021)
+    description: ADAPT is an open source library providing numerous tools to perform Transfer Learning and Domain Adaptation. The library is specifically designed for Scikit-learn and Tensorflow users with a "user-friendly" approach.
+    pdf: https://arxiv.org/pdf/2107.03049
+    code: https://github.com/adapt-python/adapt
+    bibtex: ./assets/files/adapt.txt
+    repository: adapt-python/adapt
+    language: python
+    pypi: adapt
+    
+    
+  - title: SKADA Domain Adaptation with scikit-learn and PyTorch
+    authors: Gnassounou T., Kachaiev O., Flamary R., Collas A., Lalou Y., <strong>de Mathelin A.</strong>, Gramfort A., Bueno R., Michel F., Mellot A.,  Loison V., Odonnat A., Moreau T. (2024).
+    description: SKADA is a library for domain adaptation (DA) with a scikit-learn and PyTorch/skorch compatible API.
+    code: https://github.com/scikit-adaptation/skada
+    bibtex: ./assets/files/skada.txt
+    repository: scikit-adaptation/skada
+    language: python
+    pypi: skada
+    
+    
+  - title: SKADA Bench Benchmarking Unsupervised Domain Adaptation Methods with Realistic Validation
+    authors: Lalou, Y., Gnassounou, T., Collas, A., <strong>de Mathelin, A.</strong>, Kachaiev, O., Odonnat, A., Gramfort, A., Moreau, T. and Flamary, R. (2024).
+    description: SKADA Bench proposes a framework to evaluate DA methods based on a fair evaluation of existing shallow algorithms, including reweighting, mapping, and subspace alignment. Realistic hyperparameter selection is performed with nested crossvalidation and various unsupervised model selection scores.
+    code: https://github.com/scikit-adaptation/skada-bench
+    bibtex: ./assets/files/skadabench.txt
+    pdf: https://arxiv.org/pdf/2407.11676
+    repository: scikit-adaptation/skada-bench
+    language: python

@@ -1,0 +1,6 @@
+@inproceedings{de2021handling,
+  title={Handling distribution shift in tire design},
+  author={de Mathelin, Antoine and Deheeger, Francois and Mougeot, Mathilde and Vayatis, Nicolas},
+  booktitle={NeurIPS 2021 Workshop on Distribution Shifts: Connecting Methods and Applications},
+  year={2021}
+}

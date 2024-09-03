@@ -1,0 +1,6 @@
+@inproceedings{oubari2021binded,
+  title={A Binded VAE for Inorganic Material Generation},
+  author={Oubari, Fouad and de Mathelin, Antoine and D{\'e}catoire, Rodrigue and Mougeot, Mathilde},
+  booktitle={NeurIPS 2021 Workshop on Deep Generative Models and Downstream Applications},
+  year={2021}
+}

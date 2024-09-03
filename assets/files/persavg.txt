@@ -1,0 +1,8 @@
+@inproceedings{garin2023personalized,
+  title={Personalized One-Shot Collaborative Learning},
+  author={Garin, Marie and De Mathelin, Antoine and Mougeot, Mathilde and Vayatis, Nicolas},
+  booktitle={2023 IEEE 35th International Conference on Tools with Artificial Intelligence (ICTAI)},
+  pages={114--121},
+  year={2023},
+  organization={IEEE}
+}

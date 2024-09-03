@@ -1,0 +1,5 @@
+@inproceedings{dediscrepancy,
+  title={Discrepancy-Based Active Learning for Domain Adaptation},
+  author={de Mathelin, Antoine and Deheeger, Fran{\c{c}}ois and MOUGEOT, Mathilde and Vayatis, Nicolas},
+  booktitle={International Conference on Learning Representations}
+}

@@ -1,0 +1,6 @@
+@article{de2021adapt,
+  title={Adapt: Awesome domain adaptation python toolbox},
+  author={de Mathelin, Antoine and Atiq, Mounir and Richard, Guillaume and de la Concha, Alejandro and Yachouti, Mouad and Deheeger, Fran{\c{c}}ois and Mougeot, Mathilde and Vayatis, Nicolas},
+  journal={arXiv preprint arXiv:2107.03049},
+  year={2021}
+}

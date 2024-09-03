@@ -1,0 +1,6 @@
+@article{lalou2024skada,
+  title={SKADA-Bench: Benchmarking Unsupervised Domain Adaptation Methods with Realistic Validation},
+  author={Lalou, Yanis and Gnassounou, Th{\'e}o and Collas, Antoine and de Mathelin, Antoine and Kachaiev, Oleksii and Odonnat, Ambroise and Gramfort, Alexandre and Moreau, Thomas and Flamary, R{\'e}mi},
+  journal={arXiv preprint arXiv:2407.11676},
+  year={2024}
+}

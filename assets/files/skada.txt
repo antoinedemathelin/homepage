@@ -1,0 +1,7 @@
+@misc{gnassounou2024skada,
+author = {Gnassounou, Théo and Kachaiev, Oleksii and Flamary, Rémi and Collas, Antoine and Lalou, Yanis and de Mathelin, Antoine and Gramfort, Alexandre and Bueno, Ruben and Michel, Florent and Mellot, Apolline and  Loison, Virginie and Odonnat, Ambroise and Moreau, Thomas},
+month = {7},
+title = {SKADA : Scikit Adaptation},
+url = {https://scikit-adaptation.github.io/},
+year = {2024}
+}
