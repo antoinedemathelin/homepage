@@ -1,0 +1,7 @@
+@article{demathelin2025maxwent,
+  title={Deep Out-of-Distribution Uncertainty Quantification via Weight Entropy Maximization},
+  author={de Mathelin, Antoine and Deheeger, Fran{\c{c}}ois and Mougeot, Mathilde and Vayatis, Nicolas},
+  journal={Journal of Machine Learning Research (JMLR)},
+  volume={26},
+  year={2025}
+}
