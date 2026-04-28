@@ -1,5 +1,41 @@
 main:
 
+  - title: A Pan-Cancer Ex Vivo Drug Screen Atlas for Functional Precision Oncology
+    authors: Pichotta, K., White, J.B., Quinn, J.F., Markus, A., Tosh, C., <strong>de Mathelin, A.</strong>, Coyne, E., Huang, F. and Tansey, W.
+    conference_short: bioRxiv
+    conference: <strong>bioRxiv</strong>, 2026.
+    pdf: https://www.biorxiv.org/content/10.64898/2026.02.14.705918v1
+    page: https://www.panpreclinical.org/
+    bibtex: ./assets/files/ppc.txt
+    image: ./assets/img/ppc.png
+
+  - title: Empirically Calibrated Conditional Independence Tests
+    authors: Pan, M., <strong>de Mathelin, A.</strong> and Tansey, W.
+    conference_short: AISTATS
+    conference: 29th International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2602.21036
+    code: https://github.com/tansey-lab/ECCIT
+    bibtex: ./assets/files/eccit.txt
+    image: ./assets/img/eccit.png
+
+  - title: Addressing the Cold-Start Problem for Personalized Combination Drug Screening
+    authors: <strong>de Mathelin, A.</strong>, Tosh, C. and Tansey, W.
+    conference_short: MLCB
+    conference: Machine Learning in Computational Biology <strong>(MLCB)</strong>, PMLR, 2025.
+    pdf: https://arxiv.org/abs/2509.07850
+    code: https://github.com/tansey-lab/coldstart
+    bibtex: ./assets/files/coldstart.txt
+    image: ./assets/img/coldstart.png
+
+  - title: "SKADA-Bench: Benchmarking Unsupervised Domain Adaptation Methods with Realistic Validation On Diverse Modalities"
+    authors: Lalou, Y., Gnassounou, T., Collas, A., <strong>de Mathelin, A.</strong>, Kachaiev, O., Odonnat, A., Moreau, T., Gramfort, A. and Flamary, R.
+    conference_short: TMLR
+    conference: Transactions on Machine Learning Research <strong>(TMLR)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2407.11676
+    code: https://github.com/scikit-adaptation/skada-bench
+    bibtex: ./assets/files/skadabench.txt
+    image: ./assets/img/skadabench.png
+
   - title: Personalized One-Shot Collaborative Learning
     authors: Garin, M.*, <strong>de Mathelin, A.*</strong>, Mougeot, M. and Vayatis, N. <br> (* Equal contribution)
     conference_short: ICTAI
