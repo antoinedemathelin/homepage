@@ -36,6 +36,15 @@ main:
     bibtex: ./assets/files/maxwent.txt
     image: ./assets/img/maxwent.png
 
+  - title: "OneBatchPAM: A Fast and Frugal K-Medoids Algorithm"
+    authors: <strong>de Mathelin, A.</strong>, Cecchi, N., Deheeger, F., Mougeot, M. and Vayatis, N.
+    conference_short: AAAI
+    conference: 39th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2501.19285
+    code: https://github.com/antoinedemathelin/onebatch
+    bibtex: ./assets/files/obpam.txt
+    image: ./assets/img/obpam.png
+
   - title: "SKADA-Bench: Benchmarking Unsupervised Domain Adaptation Methods with Realistic Validation On Diverse Modalities"
     authors: Lalou, Y., Gnassounou, T., Collas, A., <strong>de Mathelin, A.</strong>, Kachaiev, O., Odonnat, A., Moreau, T., Gramfort, A. and Flamary, R.
     conference_short: TMLR
