@@ -1,0 +1,6 @@
+@inproceedings{demathelin2025onebatchpam,
+  title={OneBatchPAM: A Fast and Frugal K-Medoids Algorithm},
+  author={de Mathelin, Antoine and Cecchi, Nicolas and Deheeger, Fran{\c{c}}ois and Mougeot, Mathilde and Vayatis, Nicolas},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2025}
+}
