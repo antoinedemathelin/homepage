@@ -1,0 +1,8 @@
+@inproceedings{demathelin2025coldstart,
+  title={Addressing the Cold-Start Problem for Personalized Combination Drug Screening},
+  author={de Mathelin, Antoine and Tosh, Christopher and Tansey, Wesley},
+  booktitle={Machine Learning in Computational Biology (MLCB)},
+  pages={230--239},
+  year={2025},
+  organization={PMLR}
+}

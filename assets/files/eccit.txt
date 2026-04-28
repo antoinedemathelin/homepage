@@ -1,0 +1,6 @@
+@inproceedings{pan2025empirically,
+  title={Empirically Calibrated Conditional Independence Tests},
+  author={Pan, Michael and de Mathelin, Antoine and Tansey, Wesley},
+  booktitle={The 29th International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  year={2025}
+}

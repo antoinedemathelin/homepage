@@ -1,6 +1,7 @@
 ## Invited Talks
 
 <ul>
+<li><strong>[Dec. 2025]</strong> Transfer learning course at <a href="https://www.sfds.asso.fr/fr/ecas_2025/748-home/">ECAS &ndash; SFdS 2025</a>, La Villa Clythia, Fr&eacute;jus [<a href="https://github.com/antoinedemathelin/ecas2025-transfer-learning/tree/main/Slides">Slides</a>] [<a href="https://github.com/antoinedemathelin/ecas2025-transfer-learning">Notebooks</a>]</li>
 <li><strong>[Apr. 2024]</strong> Transfer learning tutorial at <a href="https://www.greydient.eu/">GREYDIENT Network Wide Event</a>, <a href="https://www.sigma-clermont.fr/en">Sigma-clermont</a>, Clermont-Ferrand</li>
 <li><strong>[Mar. 2024]</strong> Towards reliable machine learning under domain shift and costly labeling at <a href="https://centreborelli.ens-paris-saclay.fr/en/chaire-idaml">IDAML Seminar</a>, <a href="https://ens-paris-saclay.fr/en">ENS Paris-Saclay</a>, Gif-sur-Yvette</li>
 <li><strong>[Oct. 2023]</strong> Deep Ensembles and Out-of-Distribution detection at <a href="https://centreborelli.ens-paris-saclay.fr/fr/SMLMDA">MLMDA Seminar</a>, <a href="https://ens-paris-saclay.fr/en">ENS Paris-Saclay</a>, Gif-sur-Yvette</li>

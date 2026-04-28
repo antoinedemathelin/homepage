@@ -1,0 +1,7 @@
+@article{pichotta2026pancancer,
+  title={A Pan-Cancer Ex Vivo Drug Screen Atlas for Functional Precision Oncology},
+  author={Pichotta, Krishna and White, John B. and Quinn, James F. and Markus, Andrew and Tosh, Christopher and de Mathelin, Antoine and Coyne, Erin and Huang, Faye and Tansey, Wesley},
+  journal={bioRxiv},
+  year={2026},
+  publisher={Cold Spring Harbor Laboratory}
+}
